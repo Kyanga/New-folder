@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Escola Exemplo</title>
+    
+</head>
+<body>
+    <h1>Colegio Adventista Nova Esperanca</h1>
+
+    <div class="content">
+        <div class="section address">
+            <h2>Endereço:</h2>
+            <p>Av. Sebastiao Marcos Mabote, Maputo, Mozambique, 0000
+            Morada.</p>
+        </div>
+
+        <div class="section students">
+            <h2>Total de Alunos Matriculados:</h2>
+            <p><span class="highlight">1500 alunos</span></p>
+        </div>
+
+        <div class="section courses">
+            <h2>Fluxos Oferecidos:</h2>
+            <ul>
+                <li>Ensino Fundamental</li>
+                <li>Ensino Médio</li>
+                <li>Curso Técnico em Informática</li>
+                <li>Curso de Línguas (Inglês e Frances)</li>
+            </ul>
+        </div>
+
+        <div class="section council">
+            <h2>Conselho Educacional:</h2>
+            É uma instituição de Ensino pertencente a Missão Sul da IASD, vocacionada no Ensino Básico..</p>
+        </div>
+    </div>
+
+    <div class="footer">
+       
+</body>
+</html>
